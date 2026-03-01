@@ -10,3 +10,7 @@
 - **Control Plane:** Justine Longla T-Lane LLC
 - **Execution Plane:** This Repository
 - **Knowledge Plane:** Docs/Runbooks
+- ### 📚 Knowledge Plane (M365 Integrated)
+- 
+- [Master Founder Handbook](PASTE_YOUR_LINK_HERE)
+- [Live Docker Runbook (M365)](PASTE_YOUR_LINK_HERE)

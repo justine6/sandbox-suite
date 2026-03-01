@@ -5,3 +5,13 @@ sandbox-suite_redisdata/
 dist/
 build/
 .DS_Store
+
+# Docs artifacts (kept in Microsoft 365)
+*.docx
+*.pdf
+
+
+# Keep Office docs out of Git
+Docs/**/*.docx
+Docs/**/*.pdf
+

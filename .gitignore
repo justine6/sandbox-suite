@@ -1,0 +1,7 @@
+node_modules/
+.env
+sandbox-suite_pgdata/
+sandbox-suite_redisdata/
+dist/
+build/
+.DS_Store
